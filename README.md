@@ -2,9 +2,6 @@
   <h2 align="center">안녕하세요, 김영수입니다.</h2>
 </p>
 
-<p align="center">
-  Full-Stack 개발자 | Java & Spring Boot 중심으로 성장 중입니다 😊
-</p>
 
 <br>
 
