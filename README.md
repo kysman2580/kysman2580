@@ -1,5 +1,5 @@
 <p align="center">
-  <b><big><big>안녕하세요, 김영수입니다.</big></big></b>
+  <h2 align="center">안녕하세요, 김영수입니다.</h2>
 </p>
 
 <p align="center">
