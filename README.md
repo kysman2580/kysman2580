@@ -6,7 +6,7 @@
 <br>
 
 <p align="center">
-  ## 🛠️ Tech Stack
+  🛠️ 기술 스택
 </p>
 
 <p align="center">
