@@ -1,14 +1,16 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=안녕하세요,%20김영수입니다!&fontSize=60&fontAlignY=40&animation=twinkling&fontColor=ffffff" alt="header"/>
+  <h1>안녕하세요, 김영수입니다.</h1>
 </p>
 
 <p align="center">
-  <b>Full-Stack Developer | Backend 중심으로 성장 중인 개발자입니다 😊</b><br/>
+  Full-Stack 개발자 | Java & Spring Boot 중심으로 성장 중입니다 😊
 </p>
 
-<br/>
+<br>
 
-## 🛠️ Tech Stack
+<p align="center">
+  ## 🛠️ Tech Stack
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
@@ -32,8 +34,8 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
-<br/>
+<br>
 
 <p align="center">
-  더 많은 프로젝트와 경험은 아래에서 확인해주세요! 🚀
+  프로젝트와 경험은 아래에서 확인해주세요! 🚀
 </p>
